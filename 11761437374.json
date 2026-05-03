@@ -1,0 +1,33 @@
+{
+    "access-key": "808717c8-b2e3-4a68-abd1-7f18e16258c6",
+    "settings": {
+        "StuckFree": true,
+        "LevelingSpeed": 10,
+        "ResetDoorsOnMovement": true,
+        "BTAcceleration": true,
+        "FixRopes": true,
+        "ReplaceElevNameInAlarmMsg": true,
+        "DisableJump": false,
+        "BTWeldSystem": true,
+        "WeldPlayers": false,
+        "ErrorReport": true,
+        "MoveCabToFloor": true,
+        "FixFloorDetect": true,
+        "FixFloorDetectStopBtn": true,
+        "PreventDoorOpening": true,
+        "FixStopping": true,
+        "MovementEngine": "Legacy"
+    },
+    "permissions": {
+        "global": {
+            "DisableMenu": false,
+            "ManageElevators": false,
+            "ManagePermissions": false,
+            "ManageSettings": false,
+            "Regeneration": false,
+            "Teleportation": true,
+            "RegenAll": false,
+            "ManageGlobalPermissions": false
+        }
+    }
+}
