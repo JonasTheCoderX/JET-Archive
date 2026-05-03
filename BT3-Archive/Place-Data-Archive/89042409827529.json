@@ -1,0 +1,113 @@
+{
+    "access-key": "15c1ec3e-2a7b-4135-a63f-2d2182d279c3",
+    "settings": {
+        "StuckFree": true,
+        "LevelingSpeed": 5,
+        "ResetDoorsOnMovement": true,
+        "BTAcceleration": true,
+        "FixRopes": true,
+        "ReplaceElevNameInAlarmMsg": true,
+        "DisableJump": true,
+        "BTWeldSystem": true,
+        "WeldPlayers": false,
+        "ErrorReport": true,
+        "MoveCabToFloor": true,
+        "FixFloorDetect": true,
+        "FixFloorDetectStopBtn": true,
+        "PreventDoorOpening": true,
+        "FixStopping": true,
+        "MovementEngine": "Prismatic"
+    },
+    "permissions": {
+        "global": {
+            "DisableMenu": false,
+            "ManageElevators": false,
+            "ManagePermissions": false,
+            "ManageSettings": false,
+            "Regeneration": false,
+            "Teleportation": true,
+            "RegenAll": false,
+            "ManageGlobalPermissions": false
+        },
+        "3337670657": {
+            "RegenAll": false,
+            "Teleportation": true,
+            "ManageElevators": false,
+            "Regeneration": false,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "4964615705": {
+            "RegenAll": false,
+            "Teleportation": true,
+            "ManageElevators": false,
+            "Regeneration": false,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "4727228179": {
+            "RegenAll": false,
+            "Teleportation": true,
+            "ManageElevators": false,
+            "Regeneration": false,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "1791734698": {
+            "RegenAll": false,
+            "Teleportation": true,
+            "ManageElevators": false,
+            "Regeneration": false,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "8456327939": {
+            "RegenAll": false,
+            "Teleportation": true,
+            "ManageElevators": false,
+            "Regeneration": false,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "3231092658": {
+            "RegenAll": true,
+            "Teleportation": true,
+            "ManageElevators": true,
+            "Regeneration": true,
+            "ManagePermissions": true,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": true,
+            "ManageSettings": true
+        },
+        "54038880": {
+            "RegenAll": false,
+            "Teleportation": true,
+            "ManageElevators": false,
+            "Regeneration": false,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "9965390639": {
+            "RegenAll": false,
+            "Teleportation": true,
+            "ManageElevators": false,
+            "Regeneration": false,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        }
+    }
+}

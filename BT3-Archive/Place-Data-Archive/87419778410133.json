@@ -1,0 +1,73 @@
+{
+    "access-key": "f55df0b6-92d3-42fd-aeb3-518a3a246d0d",
+    "settings": {
+        "StuckFree": true,
+        "LevelingSpeed": 10,
+        "ResetDoorsOnMovement": true,
+        "BTAcceleration": true,
+        "FixRopes": true,
+        "ReplaceElevNameInAlarmMsg": true,
+        "DisableJump": false,
+        "BTWeldSystem": true,
+        "WeldPlayers": false,
+        "ErrorReport": false,
+        "MoveCabToFloor": true,
+        "FixFloorDetect": true,
+        "FixFloorDetectStopBtn": true,
+        "PreventDoorOpening": true,
+        "FixStopping": true,
+        "MovementEngine": "Prismatic"
+    },
+    "permissions": {
+        "global": {
+            "DisableMenu": false,
+            "ManageElevators": false,
+            "ManagePermissions": false,
+            "ManageSettings": false,
+            "Regeneration": false,
+            "Teleportation": true,
+            "RegenAll": false,
+            "ManageGlobalPermissions": false
+        },
+        "1039108449": {
+            "RegenAll": true,
+            "Teleportation": true,
+            "ManageElevators": true,
+            "Regeneration": true,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "3272945664": {
+            "RegenAll": false,
+            "Teleportation": true,
+            "ManageElevators": false,
+            "Regeneration": false,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "1466402023": {
+            "RegenAll": true,
+            "Teleportation": true,
+            "ManageElevators": true,
+            "Regeneration": true,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        },
+        "1851460663": {
+            "RegenAll": true,
+            "Teleportation": true,
+            "ManageElevators": true,
+            "Regeneration": true,
+            "ManagePermissions": false,
+            "DisableMenu": false,
+            "ManageGlobalPermissions": false,
+            "ManageSettings": false
+        }
+    }
+}
