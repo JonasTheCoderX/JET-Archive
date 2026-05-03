@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "HideDescription": true,
+        "DragableIcon": true,
+        "DragableUI": true,
+        "LegacyButton": false
+    }
+}
